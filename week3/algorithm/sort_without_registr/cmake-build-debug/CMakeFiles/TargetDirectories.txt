@@ -1,0 +1,3 @@
+/Users/kostya/coursera/C++_white_belt/week3/algorithm/sort_without_registr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kostya/coursera/C++_white_belt/week3/algorithm/sort_without_registr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kostya/coursera/C++_white_belt/week3/algorithm/sort_without_registr/cmake-build-debug/CMakeFiles/sort_without_registr.dir
